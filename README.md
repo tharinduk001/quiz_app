@@ -1,16 +1,9 @@
-# quiz_app
+# Quiz_app
 
-A new Flutter project.
+This is a quiz app project that user can answer various questions and finally see whether their answers are correct or incorrect.
 
-## Getting Started
+![WhatsApp Image 2024-06-08 at 08 12 51](https://github.com/tharinduk001/quiz_app/assets/136310961/ac3e76ac-a69f-4126-bb91-6acbc53aaed7)
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2024-06-08 at 08 12 52 (1)](https://github.com/tharinduk001/quiz_app/assets/136310961/0d401c5b-6cf7-40f6-b881-56d661ff356a)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-06-08 at 08 12 52](https://github.com/tharinduk001/quiz_app/assets/136310961/f49a1419-cd10-4683-bd9e-5238dab74f1b)
